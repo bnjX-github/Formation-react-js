@@ -1,0 +1,25 @@
+.articles ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.articles .actions {
+    width: 90%;
+    height: 100px;
+    border: 3px solid blue;
+    margin: 5%;
+    padding: 5px;
+}
+
+.articles .filters {
+    float: left;
+    height: 100%;
+    width: 20%;
+}
+
+.articles .edit {
+    float: left;
+    height: 100%;
+    width: 80%;
+}

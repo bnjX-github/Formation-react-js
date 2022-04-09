@@ -1,0 +1,7 @@
+.addArticle {
+    height: 100%;
+}
+
+.addArticle input, button{
+    margin: 2px;
+}
